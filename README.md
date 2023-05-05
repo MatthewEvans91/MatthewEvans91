@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatthewEvans91 (Matt)
 - 👀 I’m interested in infrastructure projects & more generally projects that help others.
-- 🌱 I’m currently working on my python skills & re-exploring unity development!
+- 🌱 I’m currently working on my system design skills & re-exploring unity development!
 - 📫 How to reach me matthewevans1991@gmail.com
